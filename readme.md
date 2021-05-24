@@ -17,5 +17,7 @@ This is an anonymous chat app.
   <li>1. npm install</>
   <li>2. node ./app.js</>
 </ul>
-Then goto your browser and open index.html.
-Node Server will run on 8002 port.
+Then goto your browser and open index.html.\n Note : Node Server will run on 8002 port make sure this port is not used by any other application.
+
+
+Inspiration:- CodeWithHarry.
