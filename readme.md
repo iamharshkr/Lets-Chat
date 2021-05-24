@@ -20,4 +20,4 @@ This is an anonymous chat app.
 Then goto your browser and open index.html.<br> Note : Node Server will run on 8002 port make sure this port is not used by any other application.
 
 
-Inspiration:- CodeWithHarry.
+<b>Project Inspired from CodeWithHarry.</b>
