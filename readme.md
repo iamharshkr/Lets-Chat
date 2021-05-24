@@ -1,6 +1,6 @@
 # Lets Chat- Realtime Chat Application Using Node Js and Socket.io
 # Introduction
-This is a anonymous chat app.
+This is an anonymous chat app.
 
 ![](img/screenshot.png)
 
